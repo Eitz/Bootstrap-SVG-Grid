@@ -1,5 +1,8 @@
 # Bootstrap-SVG-Grid
-1070 Inkscape grid, edited up to lastest version of Boostrap (3.3.2).
+1170 Inkscape grid, edited up to 3.3.2 version of Boostrap.
+
+# How to use
+Download the file and open it with Inkscape or any other vector drawining editor.
 
 ## Warning about Colors
 Aparently there's a bug in this version of inkscape that won't let the grid load the predefined colors from the SVG.
